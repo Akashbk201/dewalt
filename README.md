@@ -2,4 +2,4 @@
 
 ## Developed by Akashbk201
 
-Live Preview Link - (https://dewalt-alpha.vercel.app/)
+Live Preview Link - https://dewalt-alpha.vercel.app/
